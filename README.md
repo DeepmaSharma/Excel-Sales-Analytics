@@ -12,7 +12,7 @@ This project focuses on analyzing sales and financial data using Excel to genera
 
 ### Objectives
 
-* Build a detailed **Customer Performance Report.pdf** to evaluate customer-wise sales trends and contributions.
+* Build a detailed **Customer Performance Report** to evaluate customer-wise sales trends and contributions.
 * Compare **market performance against sales targets** to identify gaps and growth opportunities.
 
 ### Why Sales Analytics Matters
